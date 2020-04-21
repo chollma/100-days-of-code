@@ -8,3 +8,11 @@
 
 **Link to work:** https://cooperhollmaier.com
 
+### Day 1: April 21, 2020
+
+**Today's Progress**: Worked on styling my personal website with CSS custom properties.
+
+**Thoughts:** Happy to see some of the work actually reacting to changes in the CSS.
+
+**Link to work:** https://cooperhollmaier.com
+
