@@ -16,3 +16,11 @@
 
 **Link to work:** https://cooperhollmaier.com
 
+### Day 2: April 22, 2020
+
+**Today's Progress**: Continued to work on the CSS for my personal site and add menu JS functionality
+
+**Thoughts:** Excited to use JS alongside the vanilla HTML/CSS I've been working on. Things are really starting to come together!
+
+**Link to work:** https://cooperhollmaier.com
+
