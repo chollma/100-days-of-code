@@ -24,3 +24,11 @@
 
 **Link to work:** https://cooperhollmaier.com
 
+### Day 3: April 23, 2020
+
+**Today's Progress**: Built a footer for my personal site, integrated font-awesome icons, and fixed the CSS animation that I broke.
+
+**Thoughts:** Stoked to finally fix the menu animation that I broke!
+
+**Link to work:** https://cooperhollmaier.com
+
