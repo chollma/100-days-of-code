@@ -32,3 +32,11 @@
 
 **Link to work:** https://cooperhollmaier.com
 
+### Day 4: April 24, 2020
+
+**Today's Progress**: Breaking my CSS one line at a time. Need to continue to work on styling until I have things settled down at all breakpoints.
+
+**Thoughts:** Merp. Feeling like I went backwards :)
+
+**Link to work:** https://cooperhollmaier.com
+
