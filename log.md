@@ -40,3 +40,10 @@
 
 **Link to work:** https://cooperhollmaier.com
 
+### Day 5: April 25, 2020
+
+**Today's Progress**: Went back to basics after deciding that I didn't really want all the features I had added. Redefined by goals for the page and rewrote some sections.
+
+**Thoughts:** I tend to prefer a cleaner site that has a defined goal rather than a bunch of flashy things that don't add much real value to a user.
+
+**Link to work:** https://cooperhollmaier.com
