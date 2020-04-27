@@ -55,3 +55,11 @@
 **Thoughts:** I need to more clearly define my goals before starting.
 
 **Link to work:** https://cooperhollmaier.com
+
+### Day 7: April 27, 2020
+
+**Today's Progress**: Completely rebuilt the page from the ground up. Refactored the CSS into a much easier to digest format and removed my crazy thinking.
+
+**Thoughts:** Much happier today with how things are looking.
+
+**Link to work:** https://cooperhollmaier.com
