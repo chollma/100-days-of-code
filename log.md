@@ -47,3 +47,11 @@
 **Thoughts:** I tend to prefer a cleaner site that has a defined goal rather than a bunch of flashy things that don't add much real value to a user.
 
 **Link to work:** https://cooperhollmaier.com
+
+### Day 6: April 26, 2020
+
+**Today's Progress**: No much to be honest. Felt like I messed around with CSS for a while and then reverted it all.
+
+**Thoughts:** I need to more clearly define my goals before starting.
+
+**Link to work:** https://cooperhollmaier.com
