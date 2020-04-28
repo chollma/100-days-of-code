@@ -63,3 +63,11 @@
 **Thoughts:** Much happier today with how things are looking.
 
 **Link to work:** https://cooperhollmaier.com
+
+### Day 8: April 28, 2020
+
+**Today's Progress**: Built a header for the website based on some design work I did. Also updated the favicon and built a sitemap for search engines
+
+**Thoughts:** Cranking along here. The goals of the project are starting to take real form.
+
+**Link to work:** https://cooperhollmaier.com
