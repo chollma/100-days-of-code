@@ -71,3 +71,11 @@
 **Thoughts:** Cranking along here. The goals of the project are starting to take real form.
 
 **Link to work:** https://cooperhollmaier.com
+
+### Day 9: April 29, 2020
+
+**Today's Progress**: Spent some time working on the header styling and built the links for successive pages.
+
+**Thoughts:** The more I do this, the more comfortable I become. The work is getting faster and easier.
+
+**Link to work:** https://cooperhollmaier.com
