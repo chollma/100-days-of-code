@@ -79,3 +79,11 @@
 **Thoughts:** The more I do this, the more comfortable I become. The work is getting faster and easier.
 
 **Link to work:** https://cooperhollmaier.com
+
+### Day 10: April 29, 2020
+
+**Today's Progress**: Finished up the header and footer content. Built all the skeletons for pages of the site. Added breadcrumbs to every page.
+
+**Thoughts:** Feelin' good!
+
+**Link to work:** https://cooperhollmaier.com
