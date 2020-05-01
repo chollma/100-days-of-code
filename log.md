@@ -80,10 +80,18 @@
 
 **Link to work:** https://cooperhollmaier.com
 
-### Day 10: April 29, 2020
+### Day 10: April 30, 2020
 
 **Today's Progress**: Finished up the header and footer content. Built all the skeletons for pages of the site. Added breadcrumbs to every page.
 
 **Thoughts:** Feelin' good!
+
+**Link to work:** https://cooperhollmaier.com
+
+### Day 11: May 1, 2020
+
+**Today's Progress**: Fleshed out content for the about me page. Also updated the header with a clickable logo (to homepage) and updated H1s across the site.
+
+**Thoughts:** Still need to figure out what content I want on the pages (especially the homepage)
 
 **Link to work:** https://cooperhollmaier.com
