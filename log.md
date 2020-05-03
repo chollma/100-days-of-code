@@ -95,3 +95,11 @@
 **Thoughts:** Still need to figure out what content I want on the pages (especially the homepage)
 
 **Link to work:** https://cooperhollmaier.com
+
+### Day 12: May 1, 2020
+
+**Today's Progress**: Fixed some accessibility concerns on the footer and added to the speaking page.
+
+**Thoughts:** The easy work is complete. Will need to add some content before we tackle the thoughts and adventures section.
+
+**Link to work:** https://cooperhollmaier.com
