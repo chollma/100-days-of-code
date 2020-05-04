@@ -96,10 +96,17 @@
 
 **Link to work:** https://cooperhollmaier.com
 
-### Day 12: May 1, 2020
+### Day 12: May 2, 2020
 
 **Today's Progress**: Fixed some accessibility concerns on the footer and added to the speaking page.
 
 **Thoughts:** The easy work is complete. Will need to add some content before we tackle the thoughts and adventures section.
 
+**Link to work:** https://cooperhollmaier.com
+
+### Day 13: May 2, 2020
+
+**Today's Progress**: Started building article cards on the thoughts section of the blog. Played around with the color pallete and article tagging.
+
+**Thoughts:** It's starting to come together but feels a bit plain and I'm not sold on the color pallete I've chosen.
 **Link to work:** https://cooperhollmaier.com
