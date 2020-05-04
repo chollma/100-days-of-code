@@ -104,9 +104,16 @@
 
 **Link to work:** https://cooperhollmaier.com
 
-### Day 13: May 2, 2020
+### Day 13: May 3, 2020
 
 **Today's Progress**: Started building article cards on the thoughts section of the blog. Played around with the color pallete and article tagging.
 
 **Thoughts:** It's starting to come together but feels a bit plain and I'm not sold on the color pallete I've chosen.
+**Link to work:** https://cooperhollmaier.com
+
+### Day 14: May 4, 2020
+
+**Today's Progress**: Cleaned up the tags on the thoughts section and updated some old code that needed to be cleaned up.
+
+**Thoughts:** I'm happy with the structure, but my styling still needs some pizazz.
 **Link to work:** https://cooperhollmaier.com
