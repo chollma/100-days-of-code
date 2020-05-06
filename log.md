@@ -117,3 +117,10 @@
 
 **Thoughts:** I'm happy with the structure, but my styling still needs some pizazz.
 **Link to work:** https://cooperhollmaier.com
+
+### Day 15: May 4, 2020
+
+**Today's Progress**: Cleaned up some styling, added social media meta data, and tweaked colors for AAA compliance.
+
+**Thoughts:** Happy with the progress!
+**Link to work:** https://cooperhollmaier.com
