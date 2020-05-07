@@ -124,3 +124,10 @@
 
 **Thoughts:** Happy with the progress!
 **Link to work:** https://cooperhollmaier.com
+
+### Day 16: May 4, 2020
+
+**Today's Progress**: Cleaned up some more styling, added social meta data to every page, and started thinking about content for the thoughts section.
+
+**Thoughts:** Feeling pretty good with the overall layout. Focusing on marketing and content that people might care about. Might actually start writing the thoughts down I've had over the years.
+**Link to work:** https://cooperhollmaier.com
