@@ -131,3 +131,10 @@
 
 **Thoughts:** Feeling pretty good with the overall layout. Focusing on marketing and content that people might care about. Might actually start writing the thoughts down I've had over the years.
 **Link to work:** https://cooperhollmaier.com
+
+### Day 17: May 4, 2020
+
+**Today's Progress**: Got the meta data fields for article pages working how I want them to, added breadcrumbs, cleaned up some other code.
+
+**Thoughts:** My articles are starting to take shape. Can't wait to publish some content.
+**Link to work:** https://cooperhollmaier.com
