@@ -118,23 +118,30 @@
 **Thoughts:** I'm happy with the structure, but my styling still needs some pizazz.
 **Link to work:** https://cooperhollmaier.com
 
-### Day 15: May 4, 2020
+### Day 15: May 5, 2020
 
 **Today's Progress**: Cleaned up some styling, added social media meta data, and tweaked colors for AAA compliance.
 
 **Thoughts:** Happy with the progress!
 **Link to work:** https://cooperhollmaier.com
 
-### Day 16: May 4, 2020
+### Day 16: May 6, 2020
 
 **Today's Progress**: Cleaned up some more styling, added social meta data to every page, and started thinking about content for the thoughts section.
 
 **Thoughts:** Feeling pretty good with the overall layout. Focusing on marketing and content that people might care about. Might actually start writing the thoughts down I've had over the years.
 **Link to work:** https://cooperhollmaier.com
 
-### Day 17: May 4, 2020
+### Day 17: May 7, 2020
 
 **Today's Progress**: Got the meta data fields for article pages working how I want them to, added breadcrumbs, cleaned up some other code.
 
 **Thoughts:** My articles are starting to take shape. Can't wait to publish some content.
+**Link to work:** https://cooperhollmaier.com
+
+### Day 18: May 8, 2020
+
+**Today's Progress**: Updated article header, added new CSS classes for styling, added social logos
+
+**Thoughts:** My article page looks like a real news site now! 
 **Link to work:** https://cooperhollmaier.com
