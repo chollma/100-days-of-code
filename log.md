@@ -145,3 +145,10 @@
 
 **Thoughts:** My article page looks like a real news site now! 
 **Link to work:** https://cooperhollmaier.com
+
+### Day 19: May 9, 2020
+
+**Today's Progress**: Updated robots.txt and added noindex to article. Started writing a my-start-in-seo article.
+
+**Thoughts:** Feels good to replace the dummy text and try out writing again! 
+**Link to work:** https://cooperhollmaier.com
