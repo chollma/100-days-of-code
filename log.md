@@ -152,3 +152,10 @@
 
 **Thoughts:** Feels good to replace the dummy text and try out writing again! 
 **Link to work:** https://cooperhollmaier.com
+
+### Day 20: May 10, 2020
+
+**Today's Progress**: Continued writing article, looked into eliminating 3rd party dependencies, played around with Strava API
+
+**Thoughts:** Adding some more content will help shape the new projects and ideas I have. 
+**Link to work:** https://cooperhollmaier.com
