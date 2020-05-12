@@ -159,3 +159,10 @@
 
 **Thoughts:** Adding some more content will help shape the new projects and ideas I have. 
 **Link to work:** https://cooperhollmaier.com
+
+### Day 22: May 11, 2020
+
+**Today's Progress**: Eliminated font awesome dependency (no more fa.css or calls to that font library), cleaned up my custom properties and unused CSS.
+
+**Thoughts:** Feeling good about performance. Found a video that I can follow along with to potentially write an app that will pull in my Strava data from the API and then I can add it to the DOM.
+**Link to work:** https://cooperhollmaier.com
