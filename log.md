@@ -166,3 +166,10 @@
 
 **Thoughts:** Feeling good about performance. Found a video that I can follow along with to potentially write an app that will pull in my Strava data from the API and then I can add it to the DOM.
 **Link to work:** https://cooperhollmaier.com
+
+### Day 23: May 12, 2020
+
+**Today's Progress**: Eliminated Google Fonts dependency by hosting locally, cleaned up CSS, and started working on reading list cards.
+
+**Thoughts:** Feeling good about performance and lack of 3rd party anything.
+**Link to work:** https://cooperhollmaier.com
