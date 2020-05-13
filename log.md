@@ -143,21 +143,21 @@
 
 **Today's Progress**: Updated article header, added new CSS classes for styling, added social logos
 
-**Thoughts:** My article page looks like a real news site now! 
+**Thoughts:** My article page looks like a real news site now!
 **Link to work:** https://cooperhollmaier.com
 
 ### Day 19: May 9, 2020
 
 **Today's Progress**: Updated robots.txt and added noindex to article. Started writing a my-start-in-seo article.
 
-**Thoughts:** Feels good to replace the dummy text and try out writing again! 
+**Thoughts:** Feels good to replace the dummy text and try out writing again!
 **Link to work:** https://cooperhollmaier.com
 
 ### Day 20: May 10, 2020
 
 **Today's Progress**: Continued writing article, looked into eliminating 3rd party dependencies, played around with Strava API
 
-**Thoughts:** Adding some more content will help shape the new projects and ideas I have. 
+**Thoughts:** Adding some more content will help shape the new projects and ideas I have.
 **Link to work:** https://cooperhollmaier.com
 
 ### Day 22: May 11, 2020
@@ -172,4 +172,11 @@
 **Today's Progress**: Eliminated Google Fonts dependency by hosting locally, cleaned up CSS, and started working on reading list cards.
 
 **Thoughts:** Feeling good about performance and lack of 3rd party anything.
+**Link to work:** https://cooperhollmaier.com
+
+### Day 24: May 13, 2020
+
+**Today's Progress**: Restyled the navigation in the header and the footer. Removed font dependency.
+
+**Thoughts:** Learning that less is more. Happy with the minimalist approach that I'm taking.
 **Link to work:** https://cooperhollmaier.com
