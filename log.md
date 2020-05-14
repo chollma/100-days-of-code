@@ -180,3 +180,10 @@
 
 **Thoughts:** Learning that less is more. Happy with the minimalist approach that I'm taking.
 **Link to work:** https://cooperhollmaier.com
+
+### Day 24: May 14, 2020
+
+**Today's Progress**: Worked on the speaking page a bit. Replaced the list with an HTML table. Also started and failed a responsive CSS photo gallery for the Adventures page.
+
+**Thoughts:** Love that CSS Grid is so flexible.
+**Link to work:** https://cooperhollmaier.com
