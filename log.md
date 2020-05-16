@@ -160,21 +160,21 @@
 **Thoughts:** Adding some more content will help shape the new projects and ideas I have.
 **Link to work:** https://cooperhollmaier.com
 
-### Day 22: May 11, 2020
+### Day 21: May 11, 2020
 
 **Today's Progress**: Eliminated font awesome dependency (no more fa.css or calls to that font library), cleaned up my custom properties and unused CSS.
 
 **Thoughts:** Feeling good about performance. Found a video that I can follow along with to potentially write an app that will pull in my Strava data from the API and then I can add it to the DOM.
 **Link to work:** https://cooperhollmaier.com
 
-### Day 23: May 12, 2020
+### Day 22: May 12, 2020
 
 **Today's Progress**: Eliminated Google Fonts dependency by hosting locally, cleaned up CSS, and started working on reading list cards.
 
 **Thoughts:** Feeling good about performance and lack of 3rd party anything.
 **Link to work:** https://cooperhollmaier.com
 
-### Day 24: May 13, 2020
+### Day 23: May 13, 2020
 
 **Today's Progress**: Restyled the navigation in the header and the footer. Removed font dependency.
 
@@ -188,9 +188,16 @@
 **Thoughts:** Love that CSS Grid is so flexible.
 **Link to work:** https://cooperhollmaier.com
 
-### Day 25: May 14, 2020
+### Day 25: May 15, 2020
 
 **Today's Progress**: Didn't get much done. Played around with the adventures page some, but not really sure what I want to do with it.
 
 **Thoughts:** Need a broad plan for adventures before I develop on it more.
+**Link to work:** https://cooperhollmaier.com
+
+### Day 26: May 16, 2020
+
+**Today's Progress**: Built a new card type, adventure-card, and logged my adventure yesterday. 
+
+**Thoughts:** Still need a plan for this page, but this is a good start.
 **Link to work:** https://cooperhollmaier.com
