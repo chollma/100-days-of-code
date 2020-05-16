@@ -187,3 +187,10 @@
 
 **Thoughts:** Love that CSS Grid is so flexible.
 **Link to work:** https://cooperhollmaier.com
+
+### Day 25: May 14, 2020
+
+**Today's Progress**: Didn't get much done. Played around with the adventures page some, but not really sure what I want to do with it.
+
+**Thoughts:** Need a broad plan for adventures before I develop on it more.
+**Link to work:** https://cooperhollmaier.com
