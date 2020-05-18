@@ -201,3 +201,11 @@
 
 **Thoughts:** Still need a plan for this page, but this is a good start.
 **Link to work:** https://cooperhollmaier.com
+
+### Day 27: May 27, 2020
+
+**Today's Progress**: Clean-up of code today. Made the site a bit faster and removed some more dependancies
+
+**Thoughts:** Feeling a bit burnt out.
+**Link to work:** https://cooperhollmaier.com
+
