@@ -202,10 +202,17 @@
 **Thoughts:** Still need a plan for this page, but this is a good start.
 **Link to work:** https://cooperhollmaier.com
 
-### Day 27: May 27, 2020
+### Day 27: May 17, 2020
 
 **Today's Progress**: Clean-up of code today. Made the site a bit faster and removed some more dependancies
 
 **Thoughts:** Feeling a bit burnt out.
 **Link to work:** https://cooperhollmaier.com
+
+### Day 27: May 18, 2020
+
+**Today's Progress**: Decided to scrap the adventures page for now and instead working on compiling a page with all the projects I've worked on. 
+
+**Thoughts:** This will force me to refactor my existing and future projects into something I can put on my personal website.
+**Link to work:** https://cooperhollmaier.com/code
 
