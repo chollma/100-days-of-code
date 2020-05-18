@@ -209,7 +209,7 @@
 **Thoughts:** Feeling a bit burnt out.
 **Link to work:** https://cooperhollmaier.com
 
-### Day 27: May 18, 2020
+### Day 28: May 18, 2020
 
 **Today's Progress**: Decided to scrap the adventures page for now and instead working on compiling a page with all the projects I've worked on. 
 
