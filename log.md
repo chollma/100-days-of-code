@@ -216,3 +216,11 @@
 **Thoughts:** This will force me to refactor my existing and future projects into something I can put on my personal website.
 **Link to work:** https://cooperhollmaier.com/code
 
+### Day 29: May 19, 2020
+
+**Today's Progress**: Successfully refactored my random quote generator to work on my personal site.
+
+**Thoughts:** I'm getting pretty good at selecting elements and traversing the DOM.
+
+**Link to work:** https://cooperhollmaier.com/code/random-quote
+
