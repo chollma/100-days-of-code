@@ -224,3 +224,11 @@
 
 **Link to work:** https://cooperhollmaier.com/code/random-quote
 
+### Day 30: May 20, 2020
+
+**Today's Progress**: Final touches on the project page for my random quote generator.
+
+**Thoughts:** I'm getting much better at quickly refactoring code.
+
+**Link to work:** https://cooperhollmaier.com/code/random-quote
+
