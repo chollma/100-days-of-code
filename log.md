@@ -240,3 +240,10 @@
 
 **Link to work:** https://cooperhollmaier.com/code
 
+### Day 32: May 22, 2020
+
+**Today's Progress**: Cleaned up the repository of unused files and contributed to an opensource project
+
+**Thoughts:** Feeling good!
+**Link to work:** https://cooperhollmaier.com/
+
