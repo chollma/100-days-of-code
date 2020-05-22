@@ -232,3 +232,11 @@
 
 **Link to work:** https://cooperhollmaier.com/code/random-quote
 
+### Day 31: May 21, 2020
+
+**Today's Progress**: Added other projects to the code page and fixed an OpenGraph issue.
+
+**Thoughts:** I'd like to learn more about how to create cool little CSS images and animations.
+
+**Link to work:** https://cooperhollmaier.com/code
+
