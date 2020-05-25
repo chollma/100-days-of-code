@@ -263,3 +263,15 @@
 **Thoughts:** 
 
 **Link to work:** 
+**Today's Progress**: Cleaned up the repository of unused files and contributed to an opensource project
+
+**Thoughts:** Feeling good!
+**Link to work:** https://cooperhollmaier.com/
+
+### Day 33: May 23, 2020
+
+**Today's Progress**: Took a break from the personal website and did some refresher learning on HTML Form elements.
+
+**Thoughts:** Feeling good!
+**Link to work:** N/A
+
