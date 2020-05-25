@@ -240,3 +240,26 @@
 
 **Link to work:** https://cooperhollmaier.com/code
 
+### Day 32: May 22, 2020
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 33: May 23, 2020
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 33: May 24, 2020
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
