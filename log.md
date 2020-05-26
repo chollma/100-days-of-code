@@ -291,7 +291,8 @@
 
 ### Day 37: May 26, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Worked on a techdegree project (HTML Form Validation) 
 
-**Thoughts:**
-**Link to work:**
+**Thoughts:** I'm getting better at building out psuedo-code.
+**Link to work:** https://github.com/chollma/techdegree-project-3
+
