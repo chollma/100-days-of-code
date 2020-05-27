@@ -296,3 +296,9 @@
 **Thoughts:** I'm getting better at building out psuedo-code.
 **Link to work:** https://github.com/chollma/techdegree-project-3
 
+### Day 38: May 27, 2020
+
+**Today's Progress**: Worked on form logic that dynamically updates CSS based on my selections
+
+**Thoughts:** I'm getting way better at traversing the DOM and selecting elements.
+**Link to work:** https://github.com/chollma/techdegree-project-3
