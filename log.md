@@ -302,3 +302,10 @@
 
 **Thoughts:** I'm getting way better at traversing the DOM and selecting elements.
 **Link to work:** https://github.com/chollma/techdegree-project-3
+
+### Day 39: May 28, 2020
+
+**Today's Progress**: Started to refactor project 2 of my techdegree into my own website. Working on adding a list of books I've read as the items that will be paginated.
+
+**Thoughts:** I love taking stuff I've built in a vaccuum and forcing myself to refactor it into my own platform.
+**Link to work:** https://cooperhollmaier.com/code/dynamic-pagination
