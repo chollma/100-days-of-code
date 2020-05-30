@@ -309,3 +309,10 @@
 
 **Thoughts:** I love taking stuff I've built in a vaccuum and forcing myself to refactor it into my own platform.
 **Link to work:** https://cooperhollmaier.com/code/dynamic-pagination
+
+### Day 40: May 29, 2020
+
+**Today's Progress**: Made some updates to the homepage
+
+**Thoughts:** I love taking stuff I've built in a vaccuum and forcing myself to refactor it into my own platform.
+**Link to work:** https://cooperhollmaier.com/
