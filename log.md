@@ -316,3 +316,10 @@
 
 **Thoughts:** I love taking stuff I've built in a vaccuum and forcing myself to refactor it into my own platform.
 **Link to work:** https://cooperhollmaier.com/
+
+### Day 41: May 30, 2020
+
+**Today's Progress**: Got my second tech degree project refactoring and working on my website. Using it to catalog the books I've read this year.
+
+**Thoughts:** I'm feeling way more confident about selecting elements in the DOM.
+**Link to work:** https://cooperhollmaier.com/code/dynamic-pagination
