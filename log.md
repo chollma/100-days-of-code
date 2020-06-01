@@ -323,3 +323,11 @@
 
 **Thoughts:** I'm feeling way more confident about selecting elements in the DOM.
 **Link to work:** https://cooperhollmaier.com/code/dynamic-pagination
+
+### Day 42: May 31, 2020
+
+**Today's Progress**: Built a new repository and started learning a little python for data analysis.
+
+**Thoughts:** It's as intuitive as they said it would be!
+**Link to work:** https://github.com/chollma/python
+
