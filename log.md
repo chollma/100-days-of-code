@@ -331,3 +331,11 @@
 **Thoughts:** It's as intuitive as they said it would be!
 **Link to work:** https://github.com/chollma/python
 
+### Day 43: June 1, 2020
+
+**Today's Progress**: Worked more on HTML validation form for treehouse
+
+**Thoughts:** N/A
+**Link to work:** https://github.com/chollma/techdegree-project-3
+
+
