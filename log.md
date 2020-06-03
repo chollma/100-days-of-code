@@ -338,4 +338,12 @@
 **Thoughts:** N/A
 **Link to work:** https://github.com/chollma/techdegree-project-3
 
+### Day 44: June 2, 2020
+
+**Today's Progress**: Got dropdown and checkbox event listeners working!
+
+**Thoughts:** I'm learning a bunch of new options, like "hidden"
+**Link to work:** https://github.com/chollma/techdegree-project-3
+
+
 
