@@ -345,5 +345,13 @@
 **Thoughts:** I'm learning a bunch of new options, like "hidden"
 **Link to work:** https://github.com/chollma/techdegree-project-3
 
+### Day 45: June 3, 2020
+
+**Today's Progress**: Got the math for checkbox "costs" working!
+
+**Thoughts:** I had to reach back to the early days and remember how to do JS math. Not an easy problem, but I suspect that the validating of day/time will be tougher.
+
+**Link to work:** https://github.com/chollma/techdegree-project-3
+
 
 
