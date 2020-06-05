@@ -353,5 +353,14 @@
 
 **Link to work:** https://github.com/chollma/techdegree-project-3
 
+### Day 46: June 4, 2020
+
+**Today's Progress**: Refactored and removed a bunch of code that was superfluous.
+
+**Thoughts:** After commenting out a bunch of my code, it made the functionality alot cleaner and allowed me to refactor it in a more meaningful way. 
+
+**Link to work:** https://github.com/chollma/techdegree-project-3
+
+
 
 
