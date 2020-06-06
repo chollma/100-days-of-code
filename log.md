@@ -361,6 +361,13 @@
 
 **Link to work:** https://github.com/chollma/techdegree-project-3
 
+## Day 47: June 5, 2020
+
+**Today's Progress**: Built a job posting search engine from scratch :D
+
+**Thoughts:** This passion project is really coming together. Excited to finish up an MVP and present it some people.
+
+**Link to work:** https://seoforall.org
 
 
 
