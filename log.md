@@ -369,5 +369,13 @@
 
 **Link to work:** https://seoforall.org
 
+## Day 48: June 6, 2020
+
+**Today's Progress**: Not much. Still can't figure out the checkbox data value comparison
+
+**Thoughts:** This is frustrating, but I'm just missing something really easy!
+
+**Link to work:** https://github.com/chollma/techdegree-project-3
+
 
 
