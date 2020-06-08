@@ -377,5 +377,13 @@
 
 **Link to work:** https://github.com/chollma/techdegree-project-3
 
+## Day 49: June 6, 2020
+
+**Today's Progress**: New site is taking shape! Excited to apply the knowledge I've learned.
+
+**Thoughts:** 
+
+**Link to work:** https://seoforall.org
+
 
 
