@@ -377,7 +377,7 @@
 
 **Link to work:** https://github.com/chollma/techdegree-project-3
 
-## Day 49: June 6, 2020
+## Day 49: June 7, 2020
 
 **Today's Progress**: New site is taking shape! Excited to apply the knowledge I've learned.
 
@@ -385,5 +385,12 @@
 
 **Link to work:** https://seoforall.org
 
+## Day 50: June 8, 2020
+
+**Today's Progress**: Got checkbox validation working!
+
+**Thoughts:** Learning alot of new methods in JavaScript to customize my work.
+
+**Link to work:** https://github.com/chollma/techdegree-project-
 
 
