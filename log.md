@@ -391,6 +391,15 @@
 
 **Thoughts:** Learning alot of new methods in JavaScript to customize my work.
 
-**Link to work:** https://github.com/chollma/techdegree-project-
+**Link to work:** https://github.com/chollma/techdegree-project-3
+
+## Day 51: June 9, 2020
+
+**Today's Progress**: Working on payment section display/hide functionality. 
+
+**Thoughts:** I need to learn more about drop down selection and default states.
+
+**Link to work:** https://github.com/chollma/techdegree-project-3
+
 
 
