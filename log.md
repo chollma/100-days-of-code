@@ -401,5 +401,13 @@
 
 **Link to work:** https://github.com/chollma/techdegree-project-3
 
+## Day 52: June 10, 2020
+
+**Today's Progress**: Wrote 2 helper functions and cleaned up a ton of code.
+
+**Thoughts:** I'm getting really good at referencing MDN and cleaning up code based on things I learn.
+
+**Link to work:** https://github.com/chollma/techdegree-project-3
+
 
 
