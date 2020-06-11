@@ -409,5 +409,15 @@
 
 **Link to work:** https://github.com/chollma/techdegree-project-3
 
+## Day 53: June 11, 2020
+
+**Today's Progress**: Started form validation work.
+
+**Thoughts:** This is going to get hairy :) Need to brush up on some topics.
+
+**Link to work:** https://github.com/chollma/techdegree-project-3
+
+
+
 
 
