@@ -417,6 +417,14 @@
 
 **Link to work:** https://github.com/chollma/techdegree-project-3
 
+## Day 54: June 12, 2020
+
+**Today's Progress**: Played around with Google Collab and the Page Speed Insights API
+
+**Thoughts:** I need some more practice with APIs and curl requests.
+
+**Link to work:** N/A
+
 
 
 
