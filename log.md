@@ -425,6 +425,13 @@
 
 **Link to work:** N/A
 
+## Day 55 and 56: June 13/14, 2020
+
+**Today's Progress**: Writing HTML form validation for name, email, checkboxes
+
+**Thoughts:** Making up for a missed day.
+
+**Link to work:** https://github.com/chollma/techdegree-project-3
 
 
 
