@@ -441,6 +441,14 @@
 
 **Link to work:** https://github.com/chollma/techdegree-project-3
 
+## Day 58: June 16, 2020
+
+**Today's Progress**: Refactoring validation function and working on cleaning up code for submission. Validating regression tests.
+
+**Thoughts:** Stringing together validation checks for multiple fields is tricky.
+
+**Link to work:** https://github.com/chollma/techdegree-project-3
+
 
 
 
