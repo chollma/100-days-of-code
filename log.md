@@ -433,6 +433,14 @@
 
 **Link to work:** https://github.com/chollma/techdegree-project-3
 
+## Day 57: June 15, 2020
+
+**Today's Progress**: Finishing up submission validation
+
+**Thoughts:** Need to refresh my boolean logic
+
+**Link to work:** https://github.com/chollma/techdegree-project-3
+
 
 
 
