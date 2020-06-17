@@ -449,6 +449,14 @@
 
 **Link to work:** https://github.com/chollma/techdegree-project-3
 
+## Day 59: June 17, 2020
+
+**Today's Progress**: Got all the validation tests working except for credit card fields. 
+
+**Thoughts:** Need to figure out the 2-step approach for CC selection. Also have to think about how I enable progressive enhancement.
+
+**Link to work:** https://github.com/chollma/techdegree-project-3
+
 
 
 
