@@ -457,6 +457,14 @@
 
 **Link to work:** https://github.com/chollma/techdegree-project-3
 
+## Day 60: June 18, 2020
+
+**Today's Progress**: Struggling with validation preventing submission.
+
+**Thoughts:** Credit card validation needs to be done too, but this isn't working correctly.
+
+**Link to work:** https://github.com/chollma/techdegree-project-3
+
 
 
 
