@@ -465,6 +465,14 @@
 
 **Link to work:** https://github.com/chollma/techdegree-project-3
 
+## Day 61: June 18, 2020
+
+**Today's Progress**: Still struggling along with credit card field validation
+
+**Thoughts:** Credit card validation needs to be done too, but this isn't working correctly.
+
+**Link to work:** https://github.com/chollma/techdegree-project-3
+
 
 
 
