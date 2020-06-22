@@ -481,4 +481,10 @@
 
 **Link to work:** https://github.com/chollma/techdegree-project-3
 
+## Day 63: June 21, 2020
+
+**Today's Progress**: Refactoring, cleaning up, trying to figure out a better solution than "alert" for validation errors.
+**Thoughts:** Felt less productive today.
+
+**Link to work:** https://github.com/chollma/techdegree-project-3
 
