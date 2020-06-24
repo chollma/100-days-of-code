@@ -493,3 +493,11 @@
 **Today's Progress**: Got real time validation working. Working on adding a select title option to account for change event listener for real time validation.
 
 **Link to work:** https://github.com/chollma/techdegree-project-3
+
+## Day 65: June 23, 2020
+
+**Today's Progress**: Getting fancier with validation.
+**Thoughts:** 
+Ready to be done with this project :)
+
+**Link to work:** https://github.com/chollma/techdegree-project-3
