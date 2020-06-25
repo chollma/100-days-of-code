@@ -501,3 +501,11 @@
 Ready to be done with this project :)
 
 **Link to work:** https://github.com/chollma/techdegree-project-3
+
+## Day 66: June 24, 2020
+
+**Today's Progress**: Learning about validitystate in JS. Getting fancier with my validation.
+**Thoughts:** 
+Ready to be done with this project :)
+
+**Link to work:** https://github.com/chollma/techdegree-project-3
