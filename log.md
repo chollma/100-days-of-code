@@ -510,7 +510,7 @@ Ready to be done with this project :)
 
 **Link to work:** https://github.com/chollma/techdegree-project-3
 
-## Day 67: June 26, 2020
+## Day 67: June 25, 2020
 
 **Today's Progress**: Learning about validitystate in JS. Getting fancier with my validation.
 **Thoughts:** 
@@ -518,11 +518,18 @@ Ready to be done with this project :)
 
 **Link to work:** https://github.com/chollma/techdegree-project-3
 
-## Day 68: June 27, 2020
+## Day 68: June 26, 2020
 
 **Today's Progress**: Some personal website clean-up and working on a new idea.
 **Thoughts:** 
 
-
 **Link to work:** https://cooperhollmaier.com
+
+## Day 69: June 27, 2020
+
+**Today's Progress**: Working on a new idea. Learning Vue.js and standing up a website that answers users questions.
+**Thoughts:** I think this idea is unexplored and could make a huge difference if I can build it in a sustainable way.
+
+**Link to work:** N/A
+
 
