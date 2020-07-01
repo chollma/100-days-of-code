@@ -532,4 +532,22 @@ Ready to be done with this project :)
 
 **Link to work:** N/A
 
+## Day 70: June 28, 2020
+
+**Today's Progress**: More Vue.js and thinking about nav bar design.
+**Thoughts:** I feel a little out of my league here.
+
+**Link to work:** N/A
+
+## Day 71: June 29, 2020
+
+**Today's Progress**: Learning about search technology and thinking about a passion project.
+**Thoughts:** Excited
+**Link to work:** N/A
+
+## Day 72: June 30, 2020
+
+**Today's Progress**: Exploring elastic search and parsing datasets.
+**Thoughts:** Excited
+**Link to work:** N/A
 
