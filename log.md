@@ -551,3 +551,9 @@ Ready to be done with this project :)
 **Thoughts:** Excited
 **Link to work:** N/A
 
+## Day 73, July 1st, 2020
+
+**Today's Progress**: Dabbled in Gatsby.js and Netlify
+**Thoughts:** Launched a new starter site!
+**Link to work:** https://modest-mccarthy-2e0bd4.netlify.app
+
