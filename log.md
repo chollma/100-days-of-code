@@ -557,3 +557,9 @@ Ready to be done with this project :)
 **Thoughts:** Launched a new starter site!
 **Link to work:** https://modest-mccarthy-2e0bd4.netlify.app
 
+## Day 74, July 2nd, 2020
+
+**Today's Progress**: Got my site pipeline working and started refactoring my personal site into a Gatsby.js + Netlify version.
+**Thoughts:** This is very different!
+**Link to work:** https://modest-mccarthy-2e0bd4.netlify.app
+
