@@ -563,3 +563,9 @@ Ready to be done with this project :)
 **Thoughts:** This is very different!
 **Link to work:** https://modest-mccarthy-2e0bd4.netlify.app
 
+## Day 75, July 3rd, 2020
+
+**Today's Progress**: Played around so more with Gatsby and worked on my personal website.
+**Thoughts:** While I like learning new JS frameworks, there's something so satisfying about pure HTML and CSS.
+**Link to work:** https://cooperhollmaier.com
+
