@@ -82,7 +82,8 @@ Link to work: https://cooperhollmaier.com
 ### Day 14:
 Today's Progress: Started building article cards on the thoughts section of the blog. Played around with the color pallete and article tagging.
 
-Thoughts: It's starting to come together but feels a bit plain and I'm not sold on the color pallete I've chosen. Link to work: https://cooperhollmaier.com
+Thoughts: It's starting to come together but feels a bit plain and I'm not sold on the color pallete I've chosen. 
+Link to work: https://cooperhollmaier.com
 ### Day 15:
 Today's Progress: Cleaned up the tags on the thoughts section and updated some old code that needed to be cleaned up.
 
@@ -177,70 +178,268 @@ Thoughts: I'd like to learn more about how to create cool little CSS images and 
 
 Link to work: https://cooperhollmaier.com/code
 ### Day 33:
+Today's Progress: Cleaned up the repository of unused files and contributed to an opensource project
+
+Thoughts: Feeling good! Link to work: https://cooperhollmaier.com/
 ### Day 34:
+Today's Progress: Random styling work
+
+Thoughts: Some days it's hard to code.
+
+Link to work: https://cooperhollmaier.com
 ### Day 35:
+Today's Progress: Took a break from the personal website and did some refresher learning on HTML Form elements.
+
+Thoughts: Feeling good! 
+Link to work: N/A
 ### Day 36:
+Today's Progress: JS Tutorials
+Thoughts: Some days it's hard to code.
+Link to work: N/A
 ### Day 37:
+Today's Progress: Worked on a techdegree project (HTML Form Validation)
+
+Thoughts: I'm getting better at building out psuedo-code. 
+Link to work: https://github.com/chollma/techdegree-project-3
 ### Day 38:
+Today's Progress: Worked on form logic that dynamically updates CSS based on my selections
+
+Thoughts: I'm getting way better at traversing the DOM and selecting elements. 
+Link to work: https://github.com/chollma/techdegree-project-3
 ### Day 39:
+Today's Progress: Started to refactor project 2 of my techdegree into my own website. Working on adding a list of books I've read as the items that will be paginated.
+
+Thoughts: I love taking stuff I've built in a vaccuum and forcing myself to refactor it into my own platform. 
+Link to work: https://cooperhollmaier.com/code/dynamic-pagination
 ### Day 40:
+Today's Progress: Made some updates to the homepage
+
+Thoughts: I love taking stuff I've built in a vaccuum and forcing myself to refactor it into my own platform. 
+Link to work: https://cooperhollmaier.com/
 ### Day 41:
+Today's Progress: Got my second tech degree project refactoring and working on my website. Using it to catalog the books I've read this year.
+
+Thoughts: I'm feeling way more confident about selecting elements in the DOM. 
+Link to work: https://cooperhollmaier.com/code/dynamic-pagination
 ### Day 42:
+Today's Progress: Built a new repository and started learning a little python for data analysis.
+
+Thoughts: It's as intuitive as they said it would be! 
+Link to work: https://github.com/chollma/python
 ### Day 43:
+Today's Progress: Worked more on HTML validation form for treehouse
+
+Thoughts: N/A 
+Link to work: https://github.com/chollma/techdegree-project-3
 ### Day 44:
+Today's Progress: Got dropdown and checkbox event listeners working!
+
+Thoughts: I'm learning a bunch of new options, like "hidden" 
+Link to work: https://github.com/chollma/techdegree-project-3
 ### Day 45:
+Today's Progress: Got the math for checkbox "costs" working!
+
+Thoughts: I had to reach back to the early days and remember how to do JS math. Not an easy problem, but I suspect that the validating of day/time will be tougher.
+
+Link to work: https://github.com/chollma/techdegree-project-3
 ### Day 46:
+Today's Progress: Refactored and removed a bunch of code that was superfluous.
+
+Thoughts: After commenting out a bunch of my code, it made the functionality alot cleaner and allowed me to refactor it in a more meaningful way.
+
+Link to work: https://github.com/chollma/techdegree-project-3
 ### Day 47:
+Today's Progress: Built a job posting search engine from scratch :D
+
+Thoughts: This passion project is really coming together. Excited to finish up an MVP and present it some people.
+
+Link to work: https://seoforall.org
 ### Day 48:
+Today's Progress: Not much. Still can't figure out the checkbox data value comparison
+
+Thoughts: This is frustrating, but I'm just missing something really easy!
+
+Link to work: https://github.com/chollma/techdegree-project-3
 ### Day 49:
+Today's Progress: New site is taking shape! Excited to apply the knowledge I've learned.
+
+Thoughts:
+
+Link to work: https://seoforall.org
 ### Day 50:
+Today's Progress: Got checkbox validation working!
+
+Thoughts: Learning alot of new methods in JavaScript to customize my work.
+
+Link to work: https://github.com/chollma/techdegree-project-3
 ### Day 51:
+Today's Progress: Working on payment section display/hide functionality.
+
+Thoughts: I need to learn more about drop down selection and default states.
+
+Link to work: https://github.com/chollma/techdegree-project-3
 ### Day 52:
+Today's Progress: Wrote 2 helper functions and cleaned up a ton of code.
+
+Thoughts: I'm getting really good at referencing MDN and cleaning up code based on things I learn.
+
+Link to work: https://github.com/chollma/techdegree-project-3
 ### Day 53:
+Today's Progress: Started form validation work.
+
+Thoughts: This is going to get hairy :) Need to brush up on some topics.
+
+Link to work: https://github.com/chollma/techdegree-project-3
 ### Day 54:
+Today's Progress: Played around with Google Collab and the Page Speed Insights API
+
+Thoughts: I need some more practice with APIs and curl requests.
+
+Link to work: N/A
 ### Day 55:
+Today's Progress: Writing HTML form validation for name, email, checkboxes
+
+Thoughts: Making up for a missed day.
+
+Link to work: https://github.com/chollma/techdegree-project-3
 ### Day 56:
+Today's Progress: Writing HTML form validation for name, email, checkboxes
+
+Thoughts: Making up for a missed day.
+
+Link to work: https://github.com/chollma/techdegree-project-3
 ### Day 57:
+Today's Progress: Finishing up submission validation
+
+Thoughts: Need to refresh my boolean logic
+
+Link to work: https://github.com/chollma/techdegree-project-3
 ### Day 58:
+Today's Progress: Refactoring validation function and working on cleaning up code for submission. Validating regression tests.
+
+Thoughts: Stringing together validation checks for multiple fields is tricky.
+
+Link to work: https://github.com/chollma/techdegree-project-3
 ### Day 59:
+Today's Progress: Got all the validation tests working except for credit card fields.
+
+Thoughts: Need to figure out the 2-step approach for CC selection. Also have to think about how I enable progressive enhancement.
+
+Link to work: https://github.com/chollma/techdegree-project-3
 ### Day 60:
+Today's Progress: Struggling with validation preventing submission.
+
+Thoughts: Credit card validation needs to be done too, but this isn't working correctly.
+
+Link to work: https://github.com/chollma/techdegree-project-3
 ### Day 61:
+Today's Progress: Still struggling along with credit card field validation
+
+Thoughts: Credit card validation needs to be done too, but this isn't working correctly.
+
+Link to work: https://github.com/chollma/techdegree-project-3
 ### Day 62:
+Today's Progress: Form submission validation is fully working!
+
+Thoughts: It feels so good to grind on something and then it just works!
+
+Link to work: https://github.com/chollma/techdegree-project-3
 ### Day 63:
+Today's Progress: Refactoring, cleaning up, trying to figure out a better solution than "alert" for validation errors. 
+Thoughts: Felt less productive today.
+
+Link to work: https://github.com/chollma/techdegree-project-3
 ### Day 64:
+Today's Progress: Got real time validation working. Working on adding a select title option to account for change event listener for real time validation.
+
+Link to work: https://github.com/chollma/techdegree-project-3
 ### Day 65:
+Today's Progress: Getting fancier with validation. 
+Thoughts: Ready to be done with this project :)
+
+Link to work: https://github.com/chollma/techdegree-project-3
 ### Day 66:
+Today's Progress: Learning about validitystate in JS. Getting fancier with my validation.
+Thoughts: Ready to be done with this project :)
+
+Link to work: https://github.com/chollma/techdegree-project-3
 ### Day 67:
+Today's Progress: Learning about validitystate in JS. Getting fancier with my validation. 
+Thoughts: Ready to be done with this project :)
+
+Link to work: https://github.com/chollma/techdegree-project-3
 ### Day 68:
+Today's Progress: Some personal website clean-up and working on a new idea. 
+Thoughts:
+
+Link to work: https://cooperhollmaier.com
 ### Day 69:
+Today's Progress: Working on a new idea. Learning Vue.js and standing up a website that answers users questions. Thoughts: I think this idea is unexplored and could make a huge difference if I can build it in a sustainable way.
+
+Link to work: N/A
 ### Day 70:
+Today's Progress: More Vue.js and thinking about nav bar design. Thoughts: I feel a little out of my league here.
+
+Link to work: N/A
 ### Day 71:
+Today's Progress: Learning about search technology and thinking about a passion project. Thoughts: Excited Link to work: N/A
 ### Day 72:
+Today's Progress: Exploring elastic search and parsing datasets. Thoughts: Excited Link to work: N/A
 ### Day 73:
+Today's Progress: Dabbled in Gatsby.js and Netlify Thoughts: Launched a new starter site! Link to work: https://modest-mccarthy-2e0bd4.netlify.app
 ### Day 74:
+Today's Progress: Got my site pipeline working and started refactoring my personal site into a Gatsby.js + Netlify version. Thoughts: This is very different! Link to work: https://modest-mccarthy-2e0bd4.netlify.app
 ### Day 75:
+Today's Progress: Played around so more with Gatsby and worked on my personal website. 
+Thoughts: While I like learning new JS frameworks, there's something so satisfying about pure HTML and CSS. 
+Link to work: https://cooperhollmaier.com
 ### Day 76:
+Today's Progress: Personal website work and self reflection.
 ### Day 77:
+Today's Progress: Personal website work and self reflection.
 ### Day 78:
+Today's Progress: Looking back, I built some very average WordPress sites back in the day. Played around with rebuilding a simple one in pure HTML + CSS with the things I've learned.
 ### Day 79:
+Today's Progress: Picked back up on the @freeCodeCamp curriculum. 
 ### Day 80:
+Today's Progress: Built a mock product page with @freeCodeCampfor FlexTape to prove to myself I could.
 ### Day 81:
-### Day 82:
+Today's Progress: Messing around again with different variations of CSS Grid. 
+### Day 82: 
+Today's Progress: Started and finished 2 projects from FreeCodeCamp. Taking tomorrow to get serious about the CSS.
 ### Day 83:
+Today's Progress: Getting up close and personal some CSS styling on form inputs.
 ### Day 84:
+Today's Progress: Getting up close and personal some CSS styling on form inputs.
 ### Day 85:
+Today's Progress: Continuing my journey in learning more about JavaScript and algorithms. 
 ### Day 86:
+Today's Progress: Spending the lunch hour with a fascination for concatenation. 
 ### Day 87:
+Today's Progress: Math operations and arrays in JavaScript.
 ### Day 88:
+Today's Progress: JavaScript comparisons and manipulating arrays. 
 ### Day 89:
+Today's Progress: Deep into the logic with JavaScript if statements. 
 ### Day 90:
+Today's Progress: Deep into the logic with JavaScript if statements. 
 ### Day 91:
+Today's Progress: Replacing if/else with switch statements.
 ### Day 92:
+Today's Progress: Building practical applications and calculators with JavaScript. 
 ### Day 93:
+Today's Progress: Audited a page for AAA WCAG 2.0 Compliance, Attempted a Pure CSS Bookshelf, Wrote a Blog Post.
 ### Day 94:
+Today's Progress: Accessing properties of objects and building lookups in JavaScript. 
 ### Day 95:
+Today's Progress: Working with data structures, nested objects, and nested arrays in JS. 
 ### Day 96:
+Today's Progess: Run, iterate, return. Working with for/while loops in JavaScript. 
 ### Day 97:
+Today's Progress: Reworking some HTML for WCAG 2.0 compliance, starting a blog post, and more clearly defining my values. 
 ### Day 98:
+Today's Progress: Working with some classic do/while loops in JavaScript 
 ### Day 99:
-### Day 100:
+Today's Progress: Ternary operators in JavaScript
+### Day 100: 
+Today's Progress: Finishing out Basic JavaScript with FreeCodeCamp
